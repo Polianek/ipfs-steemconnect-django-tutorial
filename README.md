@@ -1,4 +1,4 @@
-https://i.imgur.com/tklceW5.png
+![ipfs-sc img](https://i.imgur.com/tklceW5.png)
 
 #### Repository
 - https://github.com/python-social-auth/social-app-django
