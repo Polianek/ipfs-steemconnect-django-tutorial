@@ -1,4 +1,5 @@
-<center>https://i.imgur.com/tklceW5.png</center>
+https://i.imgur.com/tklceW5.png
+
 #### Repository
 - https://github.com/python-social-auth/social-app-django
 - https://github.com/wise-team/python-social-auth-steemconnect/
@@ -131,4 +132,4 @@ You will have the hash of the uploaded file as {{model.ipfs_file.name}} and a di
 It's full tutorial. No more episodes.
 
 #### Proof of done work
-- 
+- https://github.com/Polianek/ipfs-steemconnect-django-tutorial
